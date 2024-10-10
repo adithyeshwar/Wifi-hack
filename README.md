@@ -1,6 +1,3 @@
-Here's an engaging and well-styled version for your GitHub README file:
-
----
 
 # 🚀 Wifi-Hack 🖧  
 ### Discover the password of a WiFi network you're already connected to!
